@@ -1,0 +1,143 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+p{
+    font-size: 20px;
+}
+.heading1 {
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+}
+.heading2{
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    line-height: 0px;
+    color: tomato;
+}
+.h1{
+    border-left: 3px solid;
+    padding-bottom: 1px;
+    border-image:linear-gradient(red,red);
+    border-image-slice: 1;
+}
+.flexable-container{
+    display: flex;
+    margin-bottom: 200px;
+    margin-top: 25px;
+    padding-top: 50px;
+}
+.width-size{
+    width: 50%;
+    padding-left: 7%;
+}
+.font{
+    font-family: 'Roboto', sans-serif;
+}
+.width-size img{
+    margin-top: 20px;
+    width: 60%;
+}
+.manage{
+    margin-top: -95px;
+}
+.a-space{
+    margin-top: 30px;
+}
+.button-configure{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.letter{
+    font-size: 15px;
+    padding-top: 20px;
+}
+.picture-size{
+    height: 120px;
+    width: 120px;
+}
+.experiences-item{
+    display: flex;
+    margin-left: 4%;
+    margin-right:4%;
+    padding-left: 45px;
+    box-sizing: border-box;
+}
+.box-1{
+    background-color: aliceblue;
+    height: 400px;
+    width: 320px;
+    margin: 15px;
+    padding:5px;
+    padding-left: 30px;
+    border-radius: 15px;
+}
+.box-2{
+    background-color: lightpink;
+    height: 400px;
+    width: 320px;
+    margin: 15px;
+    padding: 5px;
+    padding-left: 30px;
+    border-radius:15px;
+}
+.box-3{
+    background-color: cornsilk;
+    height: 400px;
+    width: 320px;
+    margin: 15px;
+    padding: 5px;
+    padding-left: 30px;
+    border-radius:15px;
+}
+.postion{
+    text-align: center;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 45px;
+}
+.span-color1{
+    color: rgb(116, 103, 199);
+}
+.span-color2{
+    color: orange;
+}
+.font{
+    font-family: 'Spline Sans', sans-serif;
+    padding-left: 3px;  
+}
+.class-width{
+    width: 50%;
+    padding-left: 7%;
+}
+.class-width-size{
+    width: 50%;
+    margin-right: 100px;
+}
+.class-width img{
+    width: 80%;
+}
+footer{
+    background-color: black;
+    height: 150px;
+    border: 5px solid white;
+}
+.footer-design h1{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Luxurious Roman', cursive;
+   
+}
+.footer-design p{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    
+}
+.miss-22{
+    color: salmon;
+}
